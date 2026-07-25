@@ -1,0 +1,75 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+
+# Build / TypeScript output
+dist/
+build/
+out/
+lib/
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+
+# Vitest / testing
+coverage/
+.vitest/
+.vitest-cache/
+*.lcov
+test-results/
+html/
+__snapshots__/*.snap.new
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs and debug
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.pnpm-debug.log*
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Caches
+.cache/
+.temp/
+.tmp/
+.turbo/
+.eslintcache
+.stylelintcache
+.npm/
+.node_repl_history
+
+# Editors / IDEs
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+desktop.ini
