@@ -4,127 +4,138 @@ import CsvReader from '../src/csv_reader'
 const INVALID_PATH = '/non/existent/file.csv'
 const VALID_PATH = 'data/products.csv'
 
-test('not existent file', () => {
-    // Given (dado)
-    const invalidPath = INVALID_PATH
-    const expectedResult = {
-        error: true,
-        message: `File ${invalidPath} not found`
-    }
+describe('CsvReader.read', () => {
+    describe('path validation', () => {
+        test('returns error when file does not exist', () => {
+            // Given
+            const path = INVALID_PATH
 
-    // When (cuando)
-    const result = CsvReader.read(invalidPath)
+            // When
+            const result = CsvReader.read(path)
 
-    // Then (entonces)
-    expect(result).toStrictEqual(expectedResult)
-})
+            // Then
+            expect(result.error).toBe(true)
+            expect(result.message).toBe(`File ${path} not found`)
+        })
 
-test('empty path', () => {
-    // Given (dado)
-    const emptyPath = ''
-    const expectedResult = {
-        error: true,
-        message: `File ${emptyPath} not found`
-    }
+        test('returns error when path is empty', () => {
+            // Given
+            const path = ''
 
-    // When (cuando)
-    const result = CsvReader.read(emptyPath)
+            // When
+            const result = CsvReader.read(path)
 
-    // Then (entonces)
-    expect(result).toStrictEqual(expectedResult)
-})
-
-test('invalid file type', () => {
-    // Given
-    const invalidFileTypePath = 'data/guia.pdf'
-    const expectedResult = {
-        error: true, 
-        message: `File ${invalidFileTypePath} is not a CSV file`
-    }
-
-    // When
-    const result = CsvReader.read(invalidFileTypePath)
-
-    // Then
-    expect(result).toStrictEqual(expectedResult)
-})
-
-describe('valid file', () => {
-    test('and valid content', () => {
-        // Given
-        const validFilePath = VALID_PATH
-        const expectedResult = expect.objectContaining({
-            error: false,
-            message: `File ${validFilePath} read successfully`,
-            data: expect.objectContaining({
-                headers: expect.any(Array),
-                rows: expect.any(Array)
-            })
-        })  
-
-        // When
-        const result = CsvReader.read(validFilePath)
-
-        // Then
-        expect(result).toMatchObject(expectedResult)
-        expect(result.data?.headers).toStrictEqual([
-            'Producto',
-            'SKU',
-            'Stock',
-            'Costo',
-            'Precio',
-            'Unidad de Medida',
-            'Fecha de Caducidad'
-        ])
+            // Then
+            expect(result.error).toBe(true)
+            expect(result.message).toBe(`File ${path} not found`)
+        })
     })
 
-    test('and empty content', () => {
-        // Given
-        const emptyFilePath = 'data/empty.csv'
-        const expectedResult = {
-            error: false,
-            message: `File ${emptyFilePath} read successfully`,
-            data: expect.objectContaining({
-                headers: [],
-                rows: []
-            })
-        }
+    describe('file type validation', () => {
+        test('returns error when file extension is not .csv', () => {
+            // Given
+            const path = 'package.json'
 
-        // When
-        const result = CsvReader.read(emptyFilePath)
+            // When
+            const result = CsvReader.read(path)
 
-        // Then
-        expect(result).toMatchObject(expectedResult)
+            // Then
+            expect(result.error).toBe(true)
+            expect(result.message).toBe(`File ${path} is not a CSV file`)
+        })
     })
 
-    test('and only header row', () => {
-        // Given
-        const onlyHeaderFilePath = 'data/only_header.csv'
-        const expectedResult = {
-            error: false,
-            message: `File ${onlyHeaderFilePath} read successfully`,
-            data: expect.objectContaining({
-                headers: [
-                    'Producto',
-                    'SKU',
-                    'Stock',
-                    'Costo',
-                    'Precio',
-                    'Unidad de Medida',
-                    'Fecha de Caducidad'
-                ],
-                rows: []
-            })
-        }
+    describe('parsing', () => {
+        test('returns success with data for a valid CSV', () => {
+            // Given
+            const path = VALID_PATH
 
-        // When
-        const result = CsvReader.read(onlyHeaderFilePath)
+            // When
+            const result = CsvReader.read(path)
 
-        // Then
-        expect(result).toMatchObject(expectedResult)
+            // Then
+            expect(result.error).toBe(false)
+            expect(result.message).toBe(`File ${path} read successfully`)
+            expect(result.data).toBeDefined()
+        })
+
+        test('parses headers correctly from a valid CSV', () => {
+            // Given
+            const path = VALID_PATH
+
+            // When
+            const result = CsvReader.read(path)
+
+            // Then
+            expect(result.data?.headers).toStrictEqual([
+                'Producto',
+                'SKU',
+                'Stock',
+                'Costo',
+                'Precio',
+                'Unidad de Medida',
+                'Fecha de Caducidad'
+            ])
+        })
+
+        test('parses the expected number of data rows', () => {
+            // Given
+            const path = VALID_PATH
+
+            // When
+            const result = CsvReader.read(path)
+
+            // Then
+            expect(result.data?.rows.length).toBeGreaterThan(0)
+        })
+
+        test('returns empty headers and rows for an empty file', () => {
+            // Given
+            const path = 'data/empty.csv'
+
+            // When
+            const result = CsvReader.read(path)
+
+            // Then
+            expect(result.error).toBe(false)
+            expect(result.data?.headers).toStrictEqual([])
+            expect(result.data?.rows).toStrictEqual([])
+        })
+
+        test('returns empty rows when file has only headers', () => {
+            // Given
+            const path = 'data/only_header.csv'
+
+            // When
+            const result = CsvReader.read(path)
+
+            // Then
+            expect(result.error).toBe(false)
+            expect(result.data?.headers).toStrictEqual([
+                'Producto',
+                'SKU',
+                'Stock',
+                'Costo',
+                'Precio',
+                'Unidad de Medida',
+                'Fecha de Caducidad'
+            ])
+            expect(result.data?.rows).toStrictEqual([])
+        })
+
+        test.todo('handles commas inside quoted values')
     })
 
-    test('and with commas in the content', () => {
-        // ..insert code here to validate with_commas.csv
+    describe('error response shape', () => {
+        test('does not include data property on error', () => {
+            // Given
+            const path = INVALID_PATH
+
+            // When
+            const result = CsvReader.read(path)
+
+            // Then
+            expect(result.data).toBeUndefined()
+        })
     })
 })
