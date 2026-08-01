@@ -67,5 +67,64 @@ describe('valid file', () => {
 
         // Then
         expect(result).toMatchObject(expectedResult)
+        expect(result.data?.headers).toStrictEqual([
+            'Producto',
+            'SKU',
+            'Stock',
+            'Costo',
+            'Precio',
+            'Unidad de Medida',
+            'Fecha de Caducidad'
+        ])
+    })
+
+    test('and empty content', () => {
+        // Given
+        const emptyFilePath = 'data/empty.csv'
+        const expectedResult = {
+            error: false,
+            message: `File ${emptyFilePath} read successfully`,
+            data: expect.objectContaining({
+                headers: [],
+                rows: []
+            })
+        }
+
+        // When
+        const result = CsvReader.read(emptyFilePath)
+
+        // Then
+        expect(result).toMatchObject(expectedResult)
+    })
+
+    test('and only header row', () => {
+        // Given
+        const onlyHeaderFilePath = 'data/only_header.csv'
+        const expectedResult = {
+            error: false,
+            message: `File ${onlyHeaderFilePath} read successfully`,
+            data: expect.objectContaining({
+                headers: [
+                    'Producto',
+                    'SKU',
+                    'Stock',
+                    'Costo',
+                    'Precio',
+                    'Unidad de Medida',
+                    'Fecha de Caducidad'
+                ],
+                rows: []
+            })
+        }
+
+        // When
+        const result = CsvReader.read(onlyHeaderFilePath)
+
+        // Then
+        expect(result).toMatchObject(expectedResult)
+    })
+
+    test('and with commas in the content', () => {
+        // ..insert code here to validate with_commas.csv
     })
 })

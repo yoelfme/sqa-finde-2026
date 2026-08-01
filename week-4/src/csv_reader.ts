@@ -28,8 +28,9 @@ function read(path: string): CsvReaderResult {
 
     // 3. Read the file
     const fileContent = fs.readFileSync(path, 'utf8')
-    const lines = fileContent.split('\n')
-    const headers = lines[0].split(',')
+    const lines = fileContent.split(/\r?\n/)
+
+    const headers = lines[0].split(',').filter(header => header.trim() !== '')
     const rows = lines.slice(1).map(line => line.split(','))
 
     return {
