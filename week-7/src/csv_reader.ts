@@ -8,7 +8,7 @@ function read(path: string): CsvReaderResult {
     if (!path || !fs.existsSync(path)) {
         return {
             error: true,
-            message: `File ${path} not found`
+            message: `File not found: ${path}`
         }
     }
 
