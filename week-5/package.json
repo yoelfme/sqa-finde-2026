@@ -1,0 +1,32 @@
+{
+  "name": "week-5",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "test:unit": "vitest run --project unit",
+    "test:integration": "vitest run --project integration",
+    "ingest": "node src/ingest.ts",
+    "db:up": "docker compose up -d",
+    "db:down": "docker compose down -v"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.33.0",
+  "devDependencies": {
+    "@testcontainers/postgresql": "^12.1.0",
+    "@types/node": "^26.1.1",
+    "@types/pg": "^8.21.0",
+    "node": "^26.5.0",
+    "typescript": "^7.0.2",
+    "vitest": "^4.1.10"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.45.2",
+    "pg": "^8.23.0",
+    "zod": "^4.4.3"
+  }
+}

@@ -1,0 +1,47 @@
+name: Week 7 CI
+
+on:
+  push:
+    paths:
+      - 'week-7/**'
+      - '.github/workflows/week-7-ci.yml'
+  pull_request:
+    paths:
+      - 'week-7/**'
+      - '.github/workflows/week-7-ci.yml'
+
+defaults:
+  run:
+    working-directory: week-7
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: pnpm/action-setup@v6
+        with:
+          package_json_file: week-7/package.json
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: pnpm
+          cache-dependency-path: week-7/pnpm-lock.yaml
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Unit and integration tests with coverage
+        run: pnpm test:coverage
+
+      - name: Upload coverage report
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: coverage-report
+          path: week-7/coverage/
+          if-no-files-found: error
+          retention-days: 14

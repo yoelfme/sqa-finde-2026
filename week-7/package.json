@@ -1,0 +1,33 @@
+{
+  "name": "week-7",
+  "version": "1.0.0",
+  "description": "CSV inventory ingest pipeline with unit and integration tests",
+  "type": "module",
+  "scripts": {
+    "ingest": "node src/ingest.ts",
+    "test": "vitest",
+    "test:unit": "vitest run --project unit",
+    "test:integration": "vitest run --project integration",
+    "test:coverage": "vitest run --coverage",
+    "test:coverage:unit": "vitest run --project unit --coverage",
+    "db:up": "docker compose up -d",
+    "db:down": "docker compose down -v"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.33.0",
+  "devDependencies": {
+    "@testcontainers/postgresql": "^12.1.0",
+    "@types/node": "^26.1.1",
+    "@types/pg": "^8.21.0",
+    "@vitest/coverage-v8": "^4.1.11",
+    "typescript": "^5.9.2",
+    "vitest": "^4.1.11"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.45.2",
+    "pg": "^8.23.0",
+    "zod": "^4.4.3"
+  }
+}

@@ -1,0 +1,521 @@
+Producto,SKU,Stock,Costo,Precio,Unidad de Medida,Fecha de Caducidad
+Algodón 100g Mini,ABR-00001,188,17.35,26.76,pieza,2029-02-18
+Pizza congelada Pepperoni,ABR-00002,8,75.54,111.59,pieza,2026-08-31
+Cerveza Corona Extra 355ml Jumbo,ABR-00003,183,18.29,28.27,pieza,2027-10-04
+Cheetos Flamin Hot 55g,ABR-00004,194,12.54,20.12,pieza,2027-01-11
+Naranja,ABR-00005,195,21.22,33.41,kg,2027-07-11
+Cerveza Victoria 355ml Pack 2,ABR-00006,67,15.64,24.38,pieza,2026-09-14
+Lechuga romana,ABR-00007,20,16.92,29.89,pieza,2027-05-28
+Paleta Vero Mango,ABR-00008,49,6.37,9.78,pieza,2026-10-11
+Powerade Azul 500ml,ABR-00009,218,12.00,22.63,pieza,2027-03-27
+Salsa verde Herdez 210g Familiar,ABR-00010,41,13.90,23.18,pieza,2027-08-15
+Harina de trigo Tres Estrellas 1kg Familiar,ABR-00011,18,22.71,35.00,kg,2027-01-23
+Jabón Zote Blanco 400g,ABR-00012,236,17.03,27.46,pieza,2029-10-16
+Camarones congelados 400g,ABR-00013,210,99.08,134.70,pieza,2026-09-02
+Panque Bimbo Nuez,ABR-00014,310,17.33,26.71,pieza,2027-06-19
+Sabritas Adobadas 45g,ABR-00015,93,11.80,19.19,pieza,2027-04-29
+Huevos San Juan 12pz Jumbo,ABR-00016,318,42.26,60.29,paquete,2027-09-13
+Avena Quaker 400g Pack 3,ABR-00017,12,35.05,48.60,pieza,2026-11-21
+Chorizo San Rafael 400g,ABR-00018,16,57.57,83.94,pieza,2027-08-30
+Atún Tuny en aceite 140g,ABR-00019,141,16.91,24.97,pieza,2026-08-12
+Vegetales congelados 400g,ABR-00020,68,36.02,52.31,pieza,2027-07-15
+Sidral Mundet 600ml Pack 3,ABR-00021,224,8.93,17.16,pieza,2027-04-27
+Mermelada de durazno 270g,ABR-00022,160,30.04,42.17,pieza,2027-06-02
+Huevo Kínder 20g,ABR-00023,102,22.38,33.06,pieza,2026-08-01
+Shampoo Sedal 340ml,ABR-00024,224,38.77,69.46,pieza,2030-04-14
+Cacahuates salados 100g Jumbo,ABR-00025,124,16.07,22.41,pieza,2026-10-10
+Fósforos Cerillos La Central,ABR-00026,242,4.70,10.26,caja,2029-06-27
+Chocolate Carlos V 18g,ABR-00027,237,8.14,12.89,pieza,2027-02-22
+Papa blanca,ABR-00028,112,23.74,35.84,kg,2028-01-12
+Vinagre blanco 1L Pack 3,ABR-00029,141,11.16,18.47,pieza,2029-11-07
+Ambientador Glade Lavanda Pack 2,ABR-00030,17,39.26,53.91,pieza,2028-09-26
+Nopales en escabeche 400g,ABR-00031,124,18.04,27.01,pieza,2027-03-08
+Detergente Ace 1kg Jumbo,ABR-00032,121,38.46,52.74,kg,2030-11-04
+Donas Bimbo 6pz Mini,ABR-00033,119,34.61,47.41,paquete,2026-09-25
+Nuggets de pollo 500g,ABR-00034,186,66.52,88.32,pieza,2027-07-14
+Yogurt bebible Danone Fresa 220g,ABR-00035,114,9.60,15.21,pieza,2026-12-22
+Pasta codito La Moderna 200g Individual,ABR-00036,113,7.68,14.95,pieza,2026-11-09
+Red Bull 250ml,ABR-00037,23,28.18,44.27,pieza,2027-03-31
+Pan Bimbo Integral,ABR-00038,50,41.87,61.38,pieza,2027-01-16
+Atún Tuny en aceite 140g Individual,ABR-00039,116,16.36,27.18,pieza,2027-05-20
+Pasta codito La Moderna 200g,ABR-00040,169,8.30,14.63,pieza,2027-12-12
+Chorizo San Rafael 400g Pack 3,ABR-00041,138,59.12,86.08,pieza,2026-10-02
+Encendedor BIC,ABR-00042,235,7.42,14.94,pieza,2031-07-16
+Tocino Kirby 250g Jumbo,ABR-00043,152,54.10,83.58,pieza,2026-10-09
+Nuggets de pollo 500g,ABR-00044,145,64.00,101.71,pieza,2027-04-10
+Jabón líquido para trastes Axion 750ml,ABR-00045,149,32.61,47.38,pieza,2031-06-29
+Chicles Orbit Spearmint,ABR-00046,61,14.29,24.83,paquete,2027-04-29
+Frijoles refritos La Costeña 580g Mini,ABR-00047,192,17.42,27.18,pieza,2026-10-14
+Pepsi 600ml,ABR-00048,54,8.10,13.04,pieza,2028-01-01
+Chocolate Carlos V 18g Familiar,ABR-00049,94,8.49,12.73,pieza,2027-05-19
+Tocino Kirby 250g,ABR-00050,206,58.40,85.22,pieza,2026-08-09
+Helado Magnum Almendras,ABR-00051,240,30.97,49.25,pieza,2026-12-16
+Chocolate Carlos V 18g Pack 2,ABR-00052,72,8.31,11.34,pieza,2027-03-04
+Aguacate Hass,ABR-00053,270,56.65,89.80,kg,2027-04-15
+Café Americano vaso 12oz,ABR-00054,212,16.71,32.69,pieza,2027-05-11
+Powerade Azul 500ml Pack 3,ABR-00055,189,11.75,20.20,pieza,2027-10-27
+Suavitel Fresca Primavera 850ml,ABR-00056,241,35.34,48.77,pieza,2029-05-25
+Cloro Cloralex 1L Familiar,ABR-00057,32,18.24,26.42,pieza,2028-10-17
+Rockaleta,ABR-00058,10,7.49,11.83,pieza,2027-08-02
+Sabritas Original 45g,ABR-00059,228,12.32,17.58,pieza,2027-01-06
+Cacahuates Japoneses 100g,ABR-00060,225,19.37,29.39,pieza,2027-09-27
+Agua Bonafont 1.5L Familiar,ABR-00061,396,8.36,14.79,pieza,2027-04-12
+Chocolate Kinder Bueno Mini,ABR-00062,219,16.87,29.67,pieza,2027-11-25
+Cheetos Flamin Hot 55g Individual,ABR-00063,223,12.69,19.97,pieza,2027-03-22
+Ruffles Queso 45g Pack 3,ABR-00064,17,12.79,18.33,pieza,2027-05-13
+Aceite 1-2-3 1L,ABR-00065,137,37.39,59.23,pieza,2027-07-06
+Jugo Del Valle Naranja 1L Familiar,ABR-00066,67,17.07,34.37,pieza,2026-09-09
+Refresco Jarritos Tamarindo 370ml,ABR-00067,111,9.75,18.82,pieza,2028-01-06
+Té Lipton Limón 500ml,ABR-00068,181,11.13,18.25,pieza,2027-10-21
+Coca-Cola 600ml,ABR-00069,363,8.75,16.06,pieza,2027-02-18
+Cereal Corn Flakes 500g,ABR-00070,159,51.45,76.85,pieza,2027-06-18
+Helado Holanda Vainilla 1L,ABR-00071,79,56.93,82.28,pieza,2027-09-23
+Arroz Schettino 1kg,ABR-00072,107,27.08,39.50,kg,2027-08-24
+Pizza congelada Pepperoni,ABR-00073,103,71.09,111.22,pieza,2026-08-01
+Bubulubu Individual,ABR-00074,82,8.37,12.20,pieza,2027-11-20
+Mayonesa McCormick 390g,ABR-00075,230,33.40,51.78,pieza,2027-01-21
+Suero oral Vida Suero Oral Jumbo,ABR-00076,23,18.47,28.53,pieza,2027-03-29
+Nuggets de pollo 500g,ABR-00077,11,68.19,89.64,pieza,2027-04-08
+Chocolate Abuelita 6 tabletas,ABR-00078,226,46.93,67.51,paquete,2027-02-16
+Aguacate Hass,ABR-00079,372,54.95,81.52,kg,2026-08-06
+Pan dulce concha chocolate,ABR-00080,132,9.39,14.06,pieza,2027-01-28
+Queso manchego La Villita 400g,ABR-00081,63,78.22,106.72,pieza,2026-12-03
+Consomé de pollo Knorr 8 cubos Individual,ABR-00082,152,18.48,30.19,paquete,2027-06-21
+Pilas AAA Duracell 4pz,ABR-00083,129,55.99,87.98,paquete,2030-12-14
+Paleta Vero Mango,ABR-00084,220,5.95,9.45,pieza,2027-11-30
+Vinagre blanco 1L Pack 3,ABR-00085,199,12.65,19.29,pieza,2031-06-26
+Leche evaporada Carnation 360g,ABR-00086,140,21.21,31.70,pieza,2027-05-06
+Frijol Bayo Verde Valle 1kg,ABR-00087,59,30.19,42.40,kg,2027-08-28
+Manzana Red Delicious Pack 3,ABR-00088,138,41.86,66.99,kg,2027-11-21
+Sopa Nissin Carne Individual,ABR-00089,242,7.37,13.56,pieza,2026-08-21
+Maíz pozolero 825g,ABR-00090,241,28.34,41.85,pieza,2027-07-27
+Duvalín Tricolor,ABR-00091,107,6.34,10.73,pieza,2027-03-14
+Leche evaporada Carnation 360g Individual,ABR-00092,367,21.95,33.40,pieza,2027-09-19
+Cilantro Individual,ABR-00093,136,8.54,16.15,manojo,2026-08-28
+Hielo bolsa 5kg,ABR-00094,164,25.26,36.97,bolsa,2030-12-18
+Crema Lala 426ml,ABR-00095,83,26.57,40.39,pieza,2027-03-05
+Consomé de pollo Knorr 8 cubos,ABR-00096,192,18.75,27.46,paquete,2027-10-06
+Papas Barcel Sal 45g,ABR-00097,13,10.95,17.68,pieza,2027-07-25
+Ruffles Queso 45g,ABR-00098,193,13.58,19.46,pieza,2026-09-01
+Chicharrones Totis 50g Pack 2,ABR-00099,121,12.23,17.25,pieza,2026-11-26
+Servilletas Pétalo 200pz,ABR-00100,94,27.84,40.36,paquete,2029-07-02
+Cepillo dental Colgate,ABR-00101,209,18.71,26.27,pieza,2029-06-24
+Chicles Trident Menta Pack 2,ABR-00102,232,14.96,22.27,paquete,2027-08-20
+Frijoles refritos La Costeña 580g,ABR-00103,212,17.13,28.41,pieza,2027-04-06
+Cerveza Victoria 355ml,ABR-00104,206,15.49,25.74,pieza,2026-12-02
+Leche deslactosada Alpura 1L,ABR-00105,358,27.18,37.07,pieza,2027-08-15
+Leche Lala Light 1L,ABR-00106,270,22.42,35.90,pieza,2026-11-17
+Salsa Valentina 370ml,ABR-00107,181,18.39,29.47,pieza,2027-01-04
+Salsa Tapatio 148ml Jumbo,ABR-00108,206,23.64,33.71,pieza,2027-12-09
+Té de manzanilla 25 sobres,ABR-00109,218,22.81,33.70,paquete,2027-04-09
+Paleta Vero Mango,ABR-00110,192,5.79,9.92,pieza,2027-11-19
+Toallas de cocina Scott 2 rollos,ABR-00111,217,44.13,62.87,paquete,2030-05-20
+Bolillo,ABR-00112,71,2.44,4.81,pieza,2027-05-10
+Papel higiénico Pétalo 4 rollos Pack 3,ABR-00113,125,39.22,64.18,paquete,2029-11-28
+Plátano,ABR-00114,4,18.61,27.77,kg,2026-11-04
+Mazapan de la Rosa Mini,ABR-00115,262,3.84,7.18,pieza,2027-07-19
+Pasta codito La Moderna 200g,ABR-00116,116,8.06,13.67,pieza,2027-05-05
+Rockaleta Pack 2,ABR-00117,190,7.25,10.68,pieza,2027-02-06
+Gansito Marinela Individual,ABR-00118,194,11.57,18.26,pieza,2027-05-17
+Cerveza Tecate 355ml,ABR-00119,77,14.51,23.47,pieza,2026-08-15
+Cebolla blanca,ABR-00120,141,19.28,34.43,kg,2027-05-27
+Naranja,ABR-00121,26,22.49,36.42,kg,2026-08-13
+Bolsas de basura 50L 20pz Individual,ABR-00122,13,34.67,49.37,paquete,2029-12-23
+Nopales en escabeche 400g,ABR-00123,18,18.93,27.56,pieza,2026-09-24
+Salchicha San Rafael 500g Jumbo,ABR-00124,63,51.45,67.22,paquete,2026-11-30
+Papel higiénico Pétalo 4 rollos,ABR-00125,57,42.71,64.88,paquete,2031-06-29
+Atún Tuny en aceite 140g,ABR-00126,109,16.84,27.50,pieza,2027-06-09
+Toallas de cocina Scott 2 rollos,ABR-00127,242,45.79,70.61,paquete,2029-09-22
+Rastrillo Gillette Prestobarba 2pz Mini,ABR-00128,141,32.65,52.71,paquete,2028-12-24
+Tocino Kirby 250g Individual,ABR-00129,8,59.76,87.58,pieza,2027-03-26
+Pulparindo,ABR-00130,175,5.16,8.93,pieza,2027-03-28
+Chocolate Carlos V 18g,ABR-00131,239,8.16,12.31,pieza,2027-02-19
+Pasta codito La Moderna 200g Pack 3,ABR-00132,211,8.19,14.91,pieza,2026-12-24
+Leche Santa Clara Chocolate 180ml Familiar,ABR-00133,167,12.18,21.04,pieza,2027-10-24
+Queso Panela Chilchota 400g,ABR-00134,276,53.28,80.72,pieza,2027-12-19
+Salsa Catsup Heinz 397g Pack 2,ABR-00135,154,29.74,43.58,pieza,2027-04-14
+Agua Bonafont 1.5L Mini,ABR-00136,30,8.43,15.18,pieza,2027-05-03
+Esponja Scotch-Brite 2pz Pack 3,ABR-00137,234,21.90,35.85,paquete,2030-02-13
+Bolillo,ABR-00138,248,2.47,5.25,pieza,2026-11-02
+Té negro 25 sobres,ABR-00139,219,19.47,32.87,paquete,2027-01-12
+Frijol Negro Verde Valle 1kg,ABR-00140,102,31.98,49.25,kg,2026-09-07
+Consomé de pollo Knorr 8 cubos Familiar,ABR-00141,103,17.49,30.11,paquete,2028-01-09
+Chocolate Kinder Surprise,ABR-00142,105,28.71,42.29,pieza,2026-09-25
+Donas Bimbo 6pz,ABR-00143,113,35.69,47.99,paquete,2026-09-22
+Barritas Marinela Fresa Pack 3,ABR-00144,178,16.03,23.76,paquete,2027-12-10
+Queso Panela Chilchota 400g Mini,ABR-00145,179,55.96,78.58,pieza,2026-08-15
+Suavitel Fresca Primavera 850ml,ABR-00146,29,33.46,54.84,pieza,2031-02-24
+Queso Oaxaca Lala 400g,ABR-00147,74,61.40,101.58,pieza,2028-01-04
+Tomate saladette Individual,ABR-00148,141,26.92,38.36,kg,2026-12-27
+Sardinas en tomate 425g Jumbo,ABR-00149,221,22.03,37.12,pieza,2026-10-11
+M&M's Chocolate 45g,ABR-00150,201,23.25,34.10,pieza,2028-01-02
+Chocolate Kinder Bueno,ABR-00151,150,17.37,27.10,pieza,2027-12-15
+Salsa verde Herdez 210g Jumbo,ABR-00152,195,13.96,21.41,pieza,2027-08-22
+Consomé de pollo Knorr 8 cubos,ABR-00153,61,19.06,30.15,paquete,2027-08-28
+Takis Fuego 70g,ABR-00154,121,15.77,23.30,pieza,2027-08-26
+Sardinas en tomate 425g,ABR-00155,38,23.03,35.85,pieza,2027-12-21
+Boing Guayaba 500ml Jumbo,ABR-00156,216,8.76,14.98,pieza,2027-10-25
+Cerveza Tecate 355ml,ABR-00157,104,14.90,24.85,pieza,2027-01-06
+Yogurt Danone Natural 1L,ABR-00158,177,30.10,40.92,pieza,2027-09-12
+Analgésico Aspirina 20 tabs Familiar,ABR-00159,97,40.14,61.33,paquete,2027-06-21
+Rastrillo Gillette Prestobarba 2pz,ABR-00160,9,36.45,58.28,paquete,2028-12-11
+Cacahuates Japoneses 100g,ABR-00161,191,19.21,30.23,pieza,2026-11-01
+Salsa Tapatio 148ml,ABR-00162,25,22.92,36.14,pieza,2027-10-29
+Pan Bimbo Integral,ABR-00163,48,44.71,53.79,pieza,2027-05-28
+Harina de maíz Maseca 1kg,ABR-00164,144,18.87,32.16,kg,2027-02-01
+Pan Tostado Bimbo Jumbo,ABR-00165,274,33.90,45.86,pieza,2026-12-25
+Takis Fuego 70g,ABR-00166,2,15.37,23.06,pieza,2027-11-20
+Sandwich de jamón Jumbo,ABR-00167,88,26.47,44.58,pieza,2027-06-03
+Algodón 100g,ABR-00168,77,18.55,27.81,pieza,2029-09-04
+Sardinas en tomate 425g,ABR-00169,91,20.62,34.34,pieza,2027-05-30
+Limón Mini,ABR-00170,221,27.53,41.46,kg,2026-09-20
+Gasolina aditivo STP 350ml,ABR-00171,73,84.96,138.41,pieza,2029-11-07
+Cepillo dental Colgate,ABR-00172,64,17.19,26.61,pieza,2029-04-30
+Rastrillo Gillette Prestobarba 2pz Mini,ABR-00173,112,35.82,53.32,paquete,2028-09-30
+Jabón líquido para trastes Axion 750ml,ABR-00174,83,30.11,51.15,pieza,2030-11-21
+Tortillas de maíz 1kg Jumbo,ABR-00175,159,19.08,27.40,kg,2027-01-16
+Runners 50g,ABR-00176,75,10.71,16.12,pieza,2027-07-13
+Queso manchego La Villita 400g Pack 2,ABR-00177,220,73.52,123.58,pieza,2027-09-11
+Gelatina D'Gari Fresa 120g,ABR-00178,3,7.83,14.65,pieza,2027-04-28
+Detergente Roma 1kg Familiar,ABR-00179,149,32.88,49.32,kg,2030-09-12
+Cheetos Torciditos 55g,ABR-00180,120,12.73,19.53,pieza,2026-08-26
+Papel facial Kleenex 90pz,ABR-00181,56,32.31,51.19,paquete,2028-11-30
+Alcohol 70% 500ml,ABR-00182,104,29.83,40.67,pieza,2029-03-19
+Huevos San Juan 12pz Pack 2,ABR-00183,140,40.69,57.93,paquete,2026-12-17
+Chiles Jalapeños La Costeña 220g,ABR-00184,242,16.44,25.97,pieza,2027-10-04
+Ambientador Glade Lavanda,ABR-00185,25,35.90,57.21,pieza,2031-04-22
+Desodorante Speed Stick,ABR-00186,94,48.25,62.92,pieza,2029-10-11
+Mayonesa McCormick 390g,ABR-00187,175,33.52,50.86,pieza,2027-08-12
+Cloro Cloralex 1L,ABR-00188,70,18.42,26.03,pieza,2029-08-16
+Queso Panela Chilchota 400g,ABR-00189,348,57.85,76.64,pieza,2026-08-22
+Red Bull 250ml,ABR-00190,144,26.85,45.13,pieza,2027-02-27
+Leche Lala Light 1L,ABR-00191,139,23.20,34.47,pieza,2027-07-03
+Tarjeta telefónica $100 Jumbo,ABR-00192,37,87.44,105.73,pieza,2029-04-16
+Detergente Ace 1kg Pack 3,ABR-00193,33,35.63,58.22,kg,2028-08-23
+Harina de maíz Maseca 1kg,ABR-00194,44,19.16,31.10,kg,2027-04-29
+Monster Energy 473ml Individual,ABR-00195,121,32.13,57.16,pieza,2027-11-03
+Cigarros Marlboro Rojo 20pz,ABR-00196,56,76.12,94.27,cajetilla,2028-10-20
+Lechuga romana,ABR-00197,117,19.06,28.10,pieza,2026-09-01
+Café soluble Nescafé 100g,ABR-00198,27,68.61,103.76,pieza,2027-12-16
+Papa blanca,ABR-00199,155,20.50,32.65,kg,2026-12-30
+Leche Alpura Entera 1L Jumbo,ABR-00200,291,22.17,31.10,pieza,2027-05-29
+Consomé de pollo Knorr 8 cubos,ABR-00201,29,17.80,29.31,paquete,2027-03-09
+Salsa Valentina 370ml,ABR-00202,116,17.22,27.28,pieza,2027-09-13
+Sopa Nissin Carne,ABR-00203,65,7.28,12.61,pieza,2027-08-19
+Chorizo San Rafael 400g,ABR-00204,21,54.77,79.44,pieza,2026-11-04
+Salsa Valentina 370ml Mini,ABR-00205,15,17.63,26.34,pieza,2027-07-04
+Paleta Holanda Magnum Mini Familiar,ABR-00206,108,19.08,29.98,pieza,2026-09-22
+Pulparindo,ABR-00207,54,4.88,9.11,pieza,2027-01-06
+Suero oral Vida Suero Oral,ABR-00208,142,19.00,27.33,pieza,2027-08-12
+Té Lipton Limón 500ml,ABR-00209,216,11.13,19.93,pieza,2026-08-27
+Cepillo dental Colgate,ABR-00210,46,18.95,26.96,pieza,2030-02-03
+Limón,ABR-00211,46,29.89,43.93,kg,2026-12-25
+Servilletas Pétalo 200pz,ABR-00212,248,26.07,43.62,paquete,2028-09-24
+Cerveza Corona Extra 355ml,ABR-00213,87,17.18,27.64,pieza,2027-01-09
+Cereal Zucaritas 490g,ABR-00214,152,53.45,87.79,pieza,2026-10-26
+Jugo V8 340ml Pack 3,ABR-00215,20,18.73,25.98,pieza,2027-05-06
+Mayonesa McCormick 390g,ABR-00216,69,34.92,51.52,pieza,2027-03-09
+Pilas AAA Duracell 4pz,ABR-00217,173,53.64,79.71,paquete,2031-04-16
+Galletas Habano,ABR-00218,153,16.69,27.53,paquete,2026-09-26
+Coca-Cola 2L Pack 3,ABR-00219,23,22.93,36.72,pieza,2027-12-23
+Encendedor BIC,ABR-00220,58,7.53,15.08,pieza,2031-05-14
+Papel higiénico Regio 4 rollos,ABR-00221,220,39.86,51.23,paquete,2028-10-18
+Salsa Tapatio 148ml Pack 2,ABR-00222,146,23.27,35.42,pieza,2027-09-19
+Cebolla blanca,ABR-00223,247,19.33,31.51,kg,2027-06-29
+Pan Tostado Bimbo,ABR-00224,205,32.60,47.39,pieza,2026-10-30
+Salsa Tapatio 148ml,ABR-00225,134,21.10,35.50,pieza,2026-10-20
+Frijoles refritos La Costeña 580g,ABR-00226,199,18.71,26.75,pieza,2027-01-20
+Yogurt Danone Natural 1L,ABR-00227,231,26.27,42.07,pieza,2027-07-24
+Aceite 1-2-3 1L,ABR-00228,60,39.94,57.77,pieza,2026-11-14
+Jamón de pavo Fud 250g Pack 3,ABR-00229,167,42.69,67.71,pieza,2026-10-17
+Tortillas de harina 500g,ABR-00230,316,22.45,34.80,paquete,2027-11-03
+Vegetales congelados 400g,ABR-00231,159,35.36,53.13,pieza,2027-06-27
+Salsa verde Herdez 210g,ABR-00232,120,13.59,21.79,pieza,2027-10-27
+Crema Nivea Soft 200ml,ABR-00233,129,62.66,88.25,pieza,2028-12-22
+Chicles Trident Menta,ABR-00234,73,12.96,21.54,paquete,2026-10-18
+Analgésico Tempra 500mg 20 tabs,ABR-00235,129,47.56,69.25,paquete,2027-08-29
+Café de grano 250g,ABR-00236,10,91.18,129.78,pieza,2027-11-04
+Hielo bolsa 5kg,ABR-00237,121,25.61,38.86,bolsa,2031-05-16
+Salchicha San Rafael 500g,ABR-00238,214,47.62,75.58,paquete,2027-07-18
+Papa blanca Mini,ABR-00239,112,20.85,33.59,kg,2027-10-24
+Galletas Habano,ABR-00240,72,17.02,27.43,paquete,2027-09-01
+Sopa Maruchan Pollo,ABR-00241,161,8.23,13.00,pieza,2027-07-09
+Leche Alpura Entera 1L,ABR-00242,356,21.60,30.73,pieza,2027-01-01
+Frijol Bayo Verde Valle 1kg Mini,ABR-00243,247,28.28,43.92,kg,2027-09-06
+Mantequilla Gloria 90g,ABR-00244,96,19.26,27.15,pieza,2027-07-03
+Totopos Saníssimo 180g Mini,ABR-00245,175,33.68,49.83,pieza,2026-11-04
+Analgésico Tempra 500mg 20 tabs,ABR-00246,79,45.06,62.76,paquete,2027-02-01
+Sabritas Adobadas 45g,ABR-00247,99,12.51,17.11,pieza,2026-10-19
+Mazapan de la Rosa,ABR-00248,398,3.74,7.30,pieza,2026-09-08
+Helado Holanda Vainilla 1L,ABR-00249,96,57.34,79.98,pieza,2027-01-05
+Pan Bimbo Blanco Grande Mini,ABR-00250,389,39.65,54.57,pieza,2027-10-23
+Powerade Azul 500ml,ABR-00251,113,11.82,20.12,pieza,2027-05-19
+Pilas AA Duracell 4pz,ABR-00252,79,54.55,85.46,paquete,2031-03-11
+Café Americano vaso 12oz,ABR-00253,112,17.62,34.29,pieza,2027-11-16
+Cable USB C 1m Individual,ABR-00254,41,45.02,83.89,pieza,2029-09-05
+Queso manchego La Villita 400g,ABR-00255,123,82.66,106.76,pieza,2027-08-16
+Suavitel Fresca Primavera 850ml,ABR-00256,31,36.18,52.13,pieza,2030-02-27
+Bebida Yakult 5pz,ABR-00257,37,33.73,55.37,paquete,2027-10-22
+Cerveza Corona Extra 355ml,ABR-00258,89,17.20,27.78,pieza,2026-08-28
+Sopa Nissin Carne Jumbo,ABR-00259,20,7.35,12.76,pieza,2027-08-19
+Ruffles Queso 45g Pack 2,ABR-00260,202,13.71,19.46,pieza,2026-12-28
+Huevos San Juan 12pz Individual,ABR-00261,260,43.32,54.65,paquete,2027-11-03
+Desodorante Speed Stick Pack 2,ABR-00262,38,41.54,64.91,pieza,2031-07-09
+Pasta codito La Moderna 200g Familiar,ABR-00263,61,7.66,13.15,pieza,2027-10-04
+Algodón 100g,ABR-00264,231,17.88,26.26,pieza,2031-05-13
+Shampoo Head & Shoulders 375ml,ABR-00265,183,66.37,96.14,pieza,2029-05-14
+Lucas Muecas Chamoy,ABR-00266,106,8.15,12.46,pieza,2027-02-08
+Helado Magnum Almendras,ABR-00267,244,32.12,46.93,pieza,2028-01-02
+Aceite de oliva Extra Virgen 500ml,ABR-00268,120,85.74,122.81,pieza,2026-09-14
+Alcohol 70% 500ml,ABR-00269,91,27.43,43.66,pieza,2028-12-09
+Aceite Capullo 1L Mini,ABR-00270,188,45.92,67.82,pieza,2027-07-07
+Crema Lala 426ml Jumbo,ABR-00271,212,27.28,42.96,pieza,2027-11-19
+Naranja,ABR-00272,183,20.88,32.96,kg,2027-11-12
+Boing Guayaba 500ml Pack 2,ABR-00273,80,9.42,16.99,pieza,2027-06-14
+Galletas Emperador Chocolate,ABR-00274,9,23.11,34.85,paquete,2027-02-12
+Pulparindo,ABR-00275,84,5.22,9.53,pieza,2027-05-07
+Queso Panela Chilchota 400g,ABR-00276,217,54.45,80.69,pieza,2027-07-14
+Concha pan dulce,ABR-00277,156,8.00,14.95,pieza,2026-10-24
+Lechuga romana,ABR-00278,46,17.80,30.22,pieza,2027-05-28
+Gomitas de osito 100g Familiar,ABR-00279,154,16.41,24.23,pieza,2027-10-11
+Pan Bimbo Integral,ABR-00280,200,41.00,53.75,pieza,2027-10-20
+M&M's Chocolate 45g,ABR-00281,171,23.03,32.52,pieza,2027-09-20
+Cereal Corn Flakes 500g,ABR-00282,7,49.92,68.08,pieza,2026-12-25
+Flan Danette Vainilla 100g,ABR-00283,17,10.45,14.81,pieza,2027-03-30
+Cigarros Marlboro Rojo 20pz,ABR-00284,8,73.35,101.83,cajetilla,2029-06-03
+Pizza congelada Pepperoni,ABR-00285,19,73.45,109.01,pieza,2026-12-19
+Galletas Saladitas 185g,ABR-00286,245,21.35,32.80,paquete,2026-11-25
+Agua Bonafont 1.5L,ABR-00287,80,8.00,14.73,pieza,2027-04-26
+Tarjeta telefónica $100 Individual,ABR-00288,177,90.66,101.79,pieza,2031-04-25
+Roles de canela Bimbo Pack 2,ABR-00289,113,27.79,42.55,paquete,2026-10-29
+Tostadas de maíz 20pz,ABR-00290,88,29.55,40.79,paquete,2026-10-06
+Limpiador Fabuloso Lavanda 1L,ABR-00291,182,29.75,44.36,pieza,2029-07-15
+Leche deslactosada Alpura 1L,ABR-00292,91,24.85,40.95,pieza,2027-03-31
+Café soluble Dolca 170g,ABR-00293,119,70.40,111.27,pieza,2026-12-11
+Desodorante Rexona Clinical,ABR-00294,183,51.18,83.61,pieza,2031-03-31
+Galletas Habano,ABR-00295,32,17.74,28.34,paquete,2027-06-21
+Curitas surtidas 20pz Individual,ABR-00296,224,22.63,34.13,paquete,2029-07-31
+Cable USB C 1m,ABR-00297,14,44.51,90.59,pieza,2029-04-04
+Galletas Chokis Pack 3,ABR-00298,57,22.70,40.64,paquete,2027-07-21
+Galletas Chokis,ABR-00299,162,25.33,36.48,paquete,2027-05-09
+Queso Crema Philadelphia 180g,ABR-00300,164,38.70,54.23,pieza,2027-01-20
+Jabón Dove Original 90g,ABR-00301,184,20.78,35.89,pieza,2030-06-15
+Huevo Kínder 20g,ABR-00302,43,20.39,37.04,pieza,2027-04-29
+Analgésico Aspirina 20 tabs Jumbo,ABR-00303,127,37.49,59.29,paquete,2027-05-24
+Curitas surtidas 20pz,ABR-00304,175,21.94,36.71,paquete,2030-11-02
+Duvalín Tricolor,ABR-00305,106,6.18,9.45,pieza,2027-12-09
+Café de grano 250g Jumbo,ABR-00306,81,80.15,132.23,pieza,2027-07-20
+Elote enlatado Herdez 400g Familiar,ABR-00307,61,15.04,22.49,pieza,2027-11-21
+Queso Panela Chilchota 400g Pack 3,ABR-00308,216,51.84,76.10,pieza,2027-10-03
+Chicharrones Totis 50g,ABR-00309,239,12.77,18.90,pieza,2027-06-17
+Donas Bimbo 6pz,ABR-00310,127,34.99,48.11,paquete,2027-06-12
+Mermelada de fresa McCormick 270g Individual,ABR-00311,55,32.03,51.58,pieza,2027-07-28
+Red Bull 250ml Individual,ABR-00312,172,28.44,50.63,pieza,2027-11-25
+Pulparindo,ABR-00313,225,5.28,8.90,pieza,2027-04-28
+Lechuga romana,ABR-00314,13,17.72,25.96,pieza,2027-02-16
+Avena Quaker 400g,ABR-00315,195,32.61,52.04,pieza,2027-05-14
+Chocolate Kinder Surprise,ABR-00316,249,28.81,39.44,pieza,2026-11-08
+Chiles Chipotles La Costeña 220g,ABR-00317,93,19.40,28.26,pieza,2026-12-26
+Pingüinos Marinela 2pz,ABR-00318,9,13.78,20.38,paquete,2026-12-19
+Papa blanca,ABR-00319,155,21.91,34.76,kg,2028-01-10
+Huevos San Juan 12pz,ABR-00320,398,42.76,54.87,paquete,2027-06-03
+Jabón Dove Original 90g,ABR-00321,181,23.16,35.18,pieza,2030-03-29
+Chocolate Abuelita 6 tabletas,ABR-00322,250,44.05,69.89,paquete,2027-10-01
+Insecticida Raid 400ml,ABR-00323,161,58.51,90.06,pieza,2028-09-16
+Shampoo Head & Shoulders 375ml,ABR-00324,198,69.86,99.30,pieza,2029-11-02
+Chile jalapeño fresco Individual,ABR-00325,158,33.15,56.14,kg,2027-08-25
+Jamón de pavo Fud 250g,ABR-00326,179,40.27,65.75,pieza,2026-11-21
+Donas Bimbo 6pz Familiar,ABR-00327,52,34.55,47.33,paquete,2027-09-25
+Mermelada de durazno 270g,ABR-00328,188,32.02,47.68,pieza,2026-10-03
+Tomate saladette Pack 3,ABR-00329,122,25.24,43.19,kg,2027-08-21
+Chicles Orbit Spearmint,ABR-00330,139,14.90,24.13,paquete,2027-07-29
+Pizza congelada Pepperoni,ABR-00331,177,77.65,112.52,pieza,2027-04-28
+Desodorante Rexona Clinical,ABR-00332,76,59.02,81.99,pieza,2029-10-27
+Duvalín Tricolor,ABR-00333,125,6.20,10.30,pieza,2027-06-21
+Chocolate Ibarra 2 tabletas,ABR-00334,70,29.94,43.99,paquete,2027-05-22
+Queso Panela Chilchota 400g,ABR-00335,196,55.38,87.19,pieza,2026-12-28
+Lucas Muecas Chamoy Mini,ABR-00336,167,7.46,13.88,pieza,2027-04-20
+Encendedor BIC,ABR-00337,238,7.62,15.09,pieza,2030-01-31
+Huevos San Juan 12pz Mini,ABR-00338,291,42.58,55.61,paquete,2027-03-20
+Algodón 100g Pack 2,ABR-00339,25,17.75,28.97,pieza,2029-05-01
+Coca-Cola 2L,ABR-00340,263,20.80,38.93,pieza,2027-12-02
+Analgésico Aspirina 20 tabs Familiar,ABR-00341,232,36.91,59.35,paquete,2026-10-31
+Analgésico Aspirina 20 tabs,ABR-00342,239,38.21,60.07,paquete,2026-09-08
+Gasolina aditivo STP 350ml,ABR-00343,239,83.88,137.02,pieza,2028-10-06
+Agua de Horchata concentrada 1L,ABR-00344,168,21.98,37.45,pieza,2026-09-08
+Pepsi 600ml Light Jumbo,ABR-00345,139,7.24,15.10,pieza,2027-12-19
+Isotónico Electrolit Coco 625ml,ABR-00346,49,23.24,34.82,pieza,2026-11-24
+Frijol Negro Verde Valle 1kg Individual,ABR-00347,3,32.76,49.68,kg,2027-07-12
+Café soluble Dolca 170g Mini,ABR-00348,219,74.96,104.29,pieza,2027-09-20
+Chocolate Kinder Surprise,ABR-00349,24,27.23,41.33,pieza,2027-02-06
+Huevos San Juan 12pz,ABR-00350,140,44.93,53.42,paquete,2027-11-01
+Pilas AA Duracell 4pz Familiar,ABR-00351,2,53.26,88.03,paquete,2030-01-10
+Electrolit Manzana 625ml,ABR-00352,119,21.07,35.94,pieza,2027-06-11
+Tocino Kirby 250g,ABR-00353,180,58.02,93.56,pieza,2027-06-15
+Plátano Familiar,ABR-00354,245,17.62,26.75,kg,2026-12-15
+Chocolate Ibarra 2 tabletas Mini,ABR-00355,179,30.19,41.15,paquete,2027-11-26
+Pilas AAA Duracell 4pz,ABR-00356,63,56.44,81.17,paquete,2029-01-07
+Galletas Habano,ABR-00357,144,18.59,26.11,paquete,2026-11-23
+Café soluble Nescafé 100g,ABR-00358,137,69.19,100.00,pieza,2027-01-01
+Pan Bimbo Integral,ABR-00359,387,42.14,54.44,pieza,2027-12-14
+Cerveza Corona Extra 355ml,ABR-00360,33,17.84,26.01,pieza,2028-01-08
+Sopa Nissin Carne,ABR-00361,206,6.97,12.92,pieza,2027-06-12
+Cilantro Familiar,ABR-00362,148,8.41,15.59,manojo,2026-10-14
+Powerade Azul 500ml,ABR-00363,15,11.87,21.14,pieza,2026-10-10
+Té negro 25 sobres Individual,ABR-00364,164,18.98,30.13,paquete,2027-10-05
+Cereal Choco Krispis 480g,ABR-00365,232,51.02,82.61,pieza,2027-08-22
+Atún Dolores en agua 140g Mini,ABR-00366,198,19.08,26.36,pieza,2026-11-30
+Tortillas de harina 500g,ABR-00367,134,21.62,32.91,paquete,2026-08-04
+Pilas AAA Duracell 4pz Familiar,ABR-00368,108,54.67,87.98,paquete,2031-07-18
+Atún Tuny en aceite 140g,ABR-00369,70,16.31,25.36,pieza,2027-02-10
+Agua mineral Peñafiel 600ml,ABR-00370,334,11.26,20.99,pieza,2026-08-17
+Cacahuates salados 100g Pack 2,ABR-00371,172,15.23,23.79,pieza,2026-09-19
+Palomitas ACT II Mantequilla,ABR-00372,55,17.72,26.81,pieza,2026-09-27
+Huevos San Juan 12pz,ABR-00373,314,40.58,60.93,paquete,2027-06-23
+Esponja Scotch-Brite 2pz,ABR-00374,77,22.61,34.00,paquete,2029-05-13
+Helado Holanda Vainilla 1L,ABR-00375,142,54.24,81.94,pieza,2027-01-27
+Rastrillo Gillette Prestobarba 2pz,ABR-00376,88,35.31,51.01,paquete,2030-09-12
+Aceite de oliva Extra Virgen 500ml,ABR-00377,76,87.67,123.17,pieza,2027-08-21
+Concha pan dulce,ABR-00378,382,7.97,14.78,pieza,2026-12-26
+Panque Bimbo Nuez,ABR-00379,305,16.73,27.61,pieza,2026-12-16
+Chiles Jalapeños La Costeña 220g Pack 3,ABR-00380,115,15.57,23.32,pieza,2027-08-15
+Cerveza Corona Extra 355ml,ABR-00381,96,18.95,25.99,pieza,2026-09-10
+Mole Doña María 235g Jumbo,ABR-00382,122,33.15,48.45,pieza,2027-03-02
+Salsa roja Herdez 210g,ABR-00383,54,13.56,23.44,pieza,2027-02-11
+Mango Ataulfo Individual,ABR-00384,180,40.52,59.82,kg,2027-02-26
+Frijoles refritos La Costeña 580g,ABR-00385,97,18.15,29.23,pieza,2027-11-21
+Jabón Zote Blanco 400g,ABR-00386,225,17.45,27.37,pieza,2031-05-08
+Té de manzanilla 25 sobres Mini,ABR-00387,234,21.89,36.90,paquete,2027-02-25
+Cereal Zucaritas 490g,ABR-00388,189,51.00,86.78,pieza,2026-12-28
+Fanta Naranja 600ml Jumbo,ABR-00389,39,8.10,14.31,pieza,2027-02-17
+Frijol Negro Verde Valle 1kg Jumbo,ABR-00390,167,33.71,47.99,kg,2027-07-12
+Runners 50g,ABR-00391,189,9.98,15.54,pieza,2027-12-16
+Caldo Maggi Tomate 8 cubos Familiar,ABR-00392,125,15.15,25.88,paquete,2027-02-05
+Aceite motor 1L,ABR-00393,134,102.45,155.61,pieza,2028-10-01
+Agua de Horchata concentrada 1L,ABR-00394,23,23.57,35.94,pieza,2027-09-27
+Huevos San Juan 12pz,ABR-00395,131,40.20,59.92,paquete,2027-12-31
+Consomé de pollo Knorr 8 cubos,ABR-00396,157,18.34,28.75,paquete,2027-12-08
+Suero oral Vida Suero Oral,ABR-00397,3,16.58,28.23,pieza,2026-08-18
+Galletas Saladitas 185g,ABR-00398,128,22.13,32.84,paquete,2027-10-15
+Panque Bimbo Nuez,ABR-00399,96,17.08,29.87,pieza,2027-04-04
+Gansito Marinela,ABR-00400,203,11.52,17.58,pieza,2027-09-11
+Yogurt Yoplait Fresa 125g,ABR-00401,178,7.88,14.15,pieza,2027-03-20
+Duvalín Tricolor,ABR-00402,219,6.33,10.25,pieza,2026-09-02
+Cerveza Corona Extra 355ml,ABR-00403,163,17.65,27.89,pieza,2026-08-10
+Limón Individual,ABR-00404,84,29.55,46.04,kg,2026-11-06
+Cuernito de jamón y queso,ABR-00405,222,16.68,26.71,pieza,2027-11-30
+Snickers 50g Pack 2,ABR-00406,139,16.47,24.12,pieza,2026-09-03
+Tortillas de harina 500g,ABR-00407,93,21.35,37.58,paquete,2027-09-12
+Yogurt Danone Natural 1L Jumbo,ABR-00408,99,26.84,44.25,pieza,2027-07-06
+Sardinas en tomate 425g,ABR-00409,185,20.73,37.74,pieza,2026-10-20
+Mermelada de durazno 270g,ABR-00410,59,29.26,42.10,pieza,2026-10-17
+Sal La Fina 1kg,ABR-00411,248,12.22,18.28,kg,2030-05-23
+Jugo Del Valle Naranja 1L,ABR-00412,58,18.82,31.75,pieza,2027-07-31
+Suavitel Fresca Primavera 850ml,ABR-00413,169,34.62,53.50,pieza,2030-09-10
+Bebida Yakult 5pz,ABR-00414,18,33.85,49.89,paquete,2026-10-24
+Chocolate Kinder Bueno Mini,ABR-00415,99,18.82,26.45,pieza,2027-06-21
+Avena Quaker 400g Pack 2,ABR-00416,194,37.48,51.54,pieza,2027-05-04
+Cerveza Victoria 355ml Pack 3,ABR-00417,131,15.82,25.23,pieza,2027-09-22
+Cerveza Victoria 355ml Familiar,ABR-00418,200,16.14,25.39,pieza,2027-06-29
+Salsa verde Herdez 210g,ABR-00419,21,13.53,21.61,pieza,2027-04-06
+Bolsas de basura 50L 20pz,ABR-00420,68,36.04,49.25,paquete,2030-04-01
+Chocolate Kinder Bueno,ABR-00421,107,16.74,27.71,pieza,2027-06-03
+Leche condensada Nestlé 397g,ABR-00422,340,27.38,44.99,pieza,2027-12-21
+Shampoo Head & Shoulders 375ml,ABR-00423,1,64.56,89.46,pieza,2030-10-12
+Frijol Bayo Verde Valle 1kg,ABR-00424,112,29.42,47.61,kg,2027-07-09
+Salsa Valentina 370ml,ABR-00425,34,19.04,30.12,pieza,2027-06-04
+Gomitas de osito 100g,ABR-00426,45,16.50,24.92,pieza,2027-09-12
+Mentas Tic Tac Menta Mini,ABR-00427,200,18.38,30.10,pieza,2027-04-06
+Arroz Schettino 1kg,ABR-00428,29,29.42,41.28,kg,2027-02-21
+Jabón Dove Original 90g,ABR-00429,6,20.87,36.50,pieza,2031-02-24
+Cebolla blanca Familiar,ABR-00430,217,21.06,29.79,kg,2027-09-23
+Nuggets de pollo 500g,ABR-00431,168,66.39,91.08,pieza,2027-01-05
+Aguacate Hass,ABR-00432,265,53.92,84.31,kg,2027-09-15
+Jabón Zote Blanco 400g,ABR-00433,139,19.21,28.86,pieza,2028-10-07
+Café soluble Dolca 170g,ABR-00434,152,74.32,115.50,pieza,2026-10-27
+Refresco Jarritos Tamarindo 370ml,ABR-00435,165,10.25,17.58,pieza,2026-09-15
+Servilletas Pétalo 200pz,ABR-00436,192,28.80,41.33,paquete,2030-06-03
+Leche deslactosada Alpura 1L,ABR-00437,285,23.96,36.53,pieza,2027-03-15
+Mostaza French's 226g,ABR-00438,176,27.83,43.21,pieza,2027-12-26
+Salchicha San Rafael 500g,ABR-00439,106,44.35,67.44,paquete,2026-10-27
+Té Lipton Limón 500ml,ABR-00440,87,11.41,18.54,pieza,2027-11-10
+Cigarros Camel 20pz Individual,ABR-00441,184,70.25,86.08,cajetilla,2031-02-05
+Mentas Tic Tac Menta Pack 2,ABR-00442,217,18.89,26.28,pieza,2027-07-18
+Analgésico Tempra 500mg 20 tabs Pack 3,ABR-00443,132,48.10,70.62,paquete,2027-01-26
+Suavitel Fresca Primavera 850ml Jumbo,ABR-00444,204,34.59,51.68,pieza,2030-10-31
+Crema Nivea Soft 200ml Mini,ABR-00445,188,66.64,93.41,pieza,2029-09-01
+Vinagre blanco 1L,ABR-00446,52,11.79,20.66,pieza,2030-02-14
+Pilas AA Duracell 4pz,ABR-00447,204,57.60,86.05,paquete,2029-08-10
+Cereal Corn Flakes 500g,ABR-00448,220,47.67,69.26,pieza,2027-12-15
+Galletas Saladitas 185g,ABR-00449,100,21.34,33.39,paquete,2026-11-25
+Aceite 1-2-3 1L,ABR-00450,172,37.74,52.12,pieza,2027-06-01
+Limpiaparabrisas 500ml,ABR-00451,30,42.01,70.61,pieza,2029-11-24
+Rockaleta Familiar,ABR-00452,107,7.22,11.02,pieza,2026-12-20
+Esponja Scotch-Brite 2pz,ABR-00453,177,20.89,35.76,paquete,2029-07-13
+Papel higiénico Pétalo 4 rollos Familiar,ABR-00454,115,39.58,60.16,paquete,2028-11-10
+Salsa verde Herdez 210g,ABR-00455,208,12.90,20.72,pieza,2027-08-29
+Papel higiénico Regio 4 rollos,ABR-00456,106,37.97,56.63,paquete,2031-01-19
+Crema de coco 400ml Jumbo,ABR-00457,74,29.60,50.00,pieza,2026-09-03
+M&M's Chocolate 45g Familiar,ABR-00458,190,20.83,34.76,pieza,2027-12-21
+Limpiador Fabuloso Lavanda 1L,ABR-00459,139,28.33,40.44,pieza,2030-08-14
+Detergente Ace 1kg,ABR-00460,139,35.21,56.93,kg,2029-10-14
+Pasta codito La Moderna 200g Mini,ABR-00461,8,8.32,13.55,pieza,2027-11-04
+Chocolate Carlos V 18g,ABR-00462,30,8.41,11.88,pieza,2027-03-31
+Sabritas Original 45g,ABR-00463,332,12.17,17.57,pieza,2027-10-13
+Pan Bimbo Integral,ABR-00464,50,43.91,60.91,pieza,2027-07-26
+Jabón Zote Blanco 400g Jumbo,ABR-00465,74,17.04,30.15,pieza,2030-03-08
+Bolsas de basura 50L 20pz Jumbo,ABR-00466,24,37.72,53.49,paquete,2029-04-27
+Pilas AA Duracell 4pz,ABR-00467,221,58.69,91.70,paquete,2029-04-09
+Limón,ABR-00468,212,26.88,46.52,kg,2027-04-11
+Fósforos Cerillos La Central,ABR-00469,161,4.91,9.43,caja,2030-01-25
+Rastrillo Gillette Prestobarba 2pz,ABR-00470,225,34.73,56.18,paquete,2029-01-30
+Champiñones enlatados 380g,ABR-00471,94,21.22,37.44,pieza,2027-11-09
+Leche evaporada Carnation 360g,ABR-00472,67,20.25,35.49,pieza,2027-11-13
+Alcohol 70% 500ml,ABR-00473,136,27.36,39.07,pieza,2030-10-16
+Doritos Nacho 58g,ABR-00474,82,14.73,19.98,pieza,2027-05-18
+Azúcar refinada 1kg,ABR-00475,201,22.58,38.03,kg,2027-07-18
+Pan dulce concha chocolate,ABR-00476,255,8.35,14.04,pieza,2026-08-17
+Queso Panela Chilchota 400g,ABR-00477,239,51.99,81.43,pieza,2027-02-24
+Plátano,ABR-00478,223,19.10,27.11,kg,2027-05-08
+Cerveza Corona Extra 355ml,ABR-00479,231,17.28,27.43,pieza,2027-01-17
+Monster Energy 473ml,ABR-00480,59,31.00,56.76,pieza,2027-10-14
+Electrolit Manzana 625ml Pack 2,ABR-00481,33,20.24,34.87,pieza,2027-03-20
+Galletas Chokis,ABR-00482,209,22.12,39.19,paquete,2026-12-02
+Nopales en escabeche 400g,ABR-00483,98,16.94,26.08,pieza,2026-10-31
+Zanahoria,ABR-00484,76,16.86,27.41,kg,2026-12-19
+Atún Tuny en aceite 140g,ABR-00485,173,17.69,24.47,pieza,2026-12-25
+Leche Lala Light 1L,ABR-00486,199,21.19,34.82,pieza,2027-03-07
+Rastrillo Gillette Prestobarba 2pz,ABR-00487,113,37.35,56.02,paquete,2029-10-11
+Agua mineral Topo Chico 600ml,ABR-00488,216,13.19,23.49,pieza,2027-07-26
+Pasta fideo La Moderna 200g,ABR-00489,21,7.54,13.50,pieza,2027-04-12
+Suavitel Fresca Primavera 850ml,ABR-00490,240,36.24,50.21,pieza,2028-09-16
+Flan Danette Vainilla 100g,ABR-00491,155,10.60,15.25,pieza,2028-01-04
+Donas Bimbo 6pz,ABR-00492,229,33.86,44.58,paquete,2027-04-03
+Miel de abeja 300g,ABR-00493,18,52.72,86.88,pieza,2031-07-10
+Isotónico Electrolit Coco 625ml,ABR-00494,33,23.71,37.43,pieza,2027-09-01
+Nopales en escabeche 400g,ABR-00495,44,17.77,28.21,pieza,2027-11-26
+Audífonos básicos Jumbo,ABR-00496,10,51.19,95.23,pieza,2028-11-24
+Café soluble Dolca 170g,ABR-00497,196,69.54,113.74,pieza,2027-09-30
+Pasta codito La Moderna 200g,ABR-00498,157,7.47,14.08,pieza,2027-01-04
+Skittles 61g Pack 2,ABR-00499,206,20.04,30.48,pieza,2027-01-07
+Detergente Roma 1kg,ABR-00500,166,32.44,50.02,kg,2028-12-06
+Chicles Trident Menta,ABR-00501,14,14.52,23.22,paquete,2027-04-08
+Agua mineral Topo Chico 600ml,ABR-00502,178,13.14,25.45,pieza,2027-01-27
+Queso Oaxaca Lala 400g Pack 3,ABR-00503,243,67.10,89.89,pieza,2027-07-22
+Galletas Arcoíris,ABR-00504,95,21.03,30.77,paquete,2026-12-08
+Encendedor BIC,ABR-00505,197,7.70,15.93,pieza,2028-09-22
+Frijol Bayo Verde Valle 1kg,ABR-00506,182,28.91,41.86,kg,2026-10-18
+Mermelada de fresa McCormick 270g,ABR-00507,145,31.28,48.00,pieza,2027-01-18
+Cereal Zucaritas 490g Pack 2,ABR-00508,29,58.47,84.28,pieza,2027-03-22
+Mango Ataulfo,ABR-00509,62,35.23,61.37,kg,2026-09-17
+Té negro 25 sobres,ABR-00510,245,21.34,30.36,paquete,2026-09-06
+Suavitel Fresca Primavera 850ml,ABR-00511,57,36.20,53.30,pieza,2030-05-14
+Chicharrones Totis 50g,ABR-00512,19,12.42,17.34,pieza,2027-08-17
+Queso Oaxaca Lala 400g,ABR-00513,205,69.18,90.13,pieza,2028-01-11
+Powerade Azul 500ml,ABR-00514,72,10.71,20.88,pieza,2027-06-15
+Arroz Schettino 1kg Individual,ABR-00515,144,25.80,39.99,kg,2027-06-08
+Mango Ataulfo,ABR-00516,126,37.78,58.85,kg,2027-02-17
+Zanahoria,ABR-00517,1,18.75,26.86,kg,2027-09-24
+Agua Bonafont 1.5L Familiar,ABR-00518,191,8.17,15.46,pieza,2026-08-02
+Fósforos Cerillos La Central,ABR-00519,26,5.28,10.36,caja,2029-09-17
+Galletas Saladitas 185g,ABR-00520,248,21.72,36.51,paquete,2026-12-24
