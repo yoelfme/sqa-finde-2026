@@ -1,0 +1,61 @@
+{
+  "name": "water",
+  "pokemon": [
+    {
+      "slot": 1,
+      "pokemon": {
+        "name": "squirtle",
+        "url": "https://pokeapi.co/api/v2/pokemon/7/"
+      }
+    },
+    {
+      "slot": 1,
+      "pokemon": {
+        "name": "wartortle",
+        "url": "https://pokeapi.co/api/v2/pokemon/8/"
+      }
+    },
+    {
+      "slot": 1,
+      "pokemon": {
+        "name": "blastoise",
+        "url": "https://pokeapi.co/api/v2/pokemon/9/"
+      }
+    },
+    {
+      "slot": 1,
+      "pokemon": {
+        "name": "psyduck",
+        "url": "https://pokeapi.co/api/v2/pokemon/54/"
+      }
+    },
+    {
+      "slot": 1,
+      "pokemon": {
+        "name": "golduck",
+        "url": "https://pokeapi.co/api/v2/pokemon/55/"
+      }
+    },
+    {
+      "slot": 1,
+      "pokemon": {
+        "name": "poliwag",
+        "url": "https://pokeapi.co/api/v2/pokemon/60/"
+      }
+    },
+    {
+      "slot": 1,
+      "pokemon": {
+        "name": "poliwhirl",
+        "url": "https://pokeapi.co/api/v2/pokemon/61/"
+      }
+    },
+    {
+      "slot": 1,
+      "pokemon": {
+        "name": "poliwrath",
+        "url": "https://pokeapi.co/api/v2/pokemon/62/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "count": 13,
+  "results": [
+    {
+      "name": "bulbasaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/1/"
+    },
+    {
+      "name": "charmander",
+      "url": "https://pokeapi.co/api/v2/pokemon/4/"
+    },
+    {
+      "name": "charmeleon",
+      "url": "https://pokeapi.co/api/v2/pokemon/5/"
+    },
+    {
+      "name": "charizard",
+      "url": "https://pokeapi.co/api/v2/pokemon/6/"
+    },
+    {
+      "name": "squirtle",
+      "url": "https://pokeapi.co/api/v2/pokemon/7/"
+    },
+    {
+      "name": "wartortle",
+      "url": "https://pokeapi.co/api/v2/pokemon/8/"
+    },
+    {
+      "name": "blastoise",
+      "url": "https://pokeapi.co/api/v2/pokemon/9/"
+    },
+    {
+      "name": "pikachu",
+      "url": "https://pokeapi.co/api/v2/pokemon/25/"
+    },
+    {
+      "name": "chimchar",
+      "url": "https://pokeapi.co/api/v2/pokemon/390/"
+    },
+    {
+      "name": "charjabug",
+      "url": "https://pokeapi.co/api/v2/pokemon/737/"
+    },
+    {
+      "name": "mr-mime",
+      "url": "https://pokeapi.co/api/v2/pokemon/122/"
+    },
+    {
+      "name": "gyarados",
+      "url": "https://pokeapi.co/api/v2/pokemon/130/"
+    },
+    {
+      "name": "psyduck",
+      "url": "https://pokeapi.co/api/v2/pokemon/54/"
+    }
+  ]
+}
