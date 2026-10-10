@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "module": "Preserve",
+    "moduleResolution": "bundler",
+    "moduleDetection": "force",
+    "strict": true,
+    "noEmit": true,
+    "skipLibCheck": true,
+    "isolatedModules": true,
+    // Kept apart from the root config: Cypress declares its own `expect` and
+    // `describe` globals, which would collide with Vitest's.
+    "types": ["cypress", "@testing-library/cypress"]
+  },
+  "include": ["**/*.ts"]
+}
